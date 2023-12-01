@@ -2,7 +2,7 @@
 * Nombre: John "El Guardián" Rodríguez
 * Edad: 45 años
 
-Personalidad: John es un hombre con una determinación inquebrantable y un sentido innato de la responsabilidad. Su espíritu aventurero y su fuerte sentido del deber se han mantenido sólidos a lo largo de los años. Es un individuo leal y protector, siempre dispuesto a arriesgar todo por aquellos a quienes ama. A pesar de su apariencia imponente y su experiencia militar, John es un padre cariñoso y afectuoso con su hijo Jordi.
+John es un hombre con una determinación inquebrantable y un sentido innato de la responsabilidad. Su espíritu aventurero y su fuerte sentido del deber se han mantenido sólidos a lo largo de los años. Es un individuo leal y protector, siempre dispuesto a arriesgar todo por aquellos a quienes ama. A pesar de su apariencia imponente y su experiencia militar, John es un padre cariñoso y afectuoso con su hijo Jordi.
 
 John se caracteriza por su fuerza física y mental, así como por su habilidad excepcional en el combate cuerpo a cuerpo y el manejo de armas. Su tiempo en el ejército le ha otorgado una gran experiencia en situaciones difíciles, y su apodo "El Guardián" refleja su papel como protector incansable de su familia y amigos.
 
