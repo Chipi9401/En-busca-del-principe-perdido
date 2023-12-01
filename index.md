@@ -6,5 +6,10 @@
 **En un mundo donde todos los habitantes son robots, John vive feliz con su hijo hasta que un día recibe una carta que le exige que se sacrifique por él. John se niega a rendirse y se enfrenta a los secuaces del secuestrador, pero descubre una pista que le revela la identidad del verdadero culpable: su propio sirviente. John tendrá que luchar por su vida y la de su hijo en una batalla final contra el traidor que oculta un oscuro secreto. ¿Podrá John salvar a su hijo y descubrir la verdad?**
 
 # **Personajes**
+### Haz click para ver la historia de cada peresonaje
 
-## John
+## [John](John.md)
+## [Jordi](Jordi.md)
+## [El Siervo](Siervo.md)
+
+# **Concept Art y Modelado 3D**
